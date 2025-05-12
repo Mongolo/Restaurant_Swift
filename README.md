@@ -31,8 +31,7 @@ Tech Stack
 
 > *(Add your screenshots here for better impact — save them in a folder like `/screenshots` and use the links below)*
 
-![Home Screen](![Simulator Screenshot - iPhone 16 Pro - 2025-05-12 at 09 34 01](https://github.com/user-attachments/assets/df61befc-aa21-4a1d-b3ba-1bad1309ddc6)
-)
+![Home Screen]()
 ![Food Menu](screenshots/menu.png)
 ![Order Screen](screenshots/order.png)
 
